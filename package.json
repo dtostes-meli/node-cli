@@ -1,0 +1,22 @@
+{
+  "name": "node-cli",
+  "version": "1.0.0",
+  "description": "Node HTTP cli",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtostes-meli/node-cli.git"
+  },
+  "author": "Daniel Tostes <daniel.tostes@mercadolivre.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtostes-meli/node-cli/issues"
+  },
+  "homepage": "https://github.com/dtostes-meli/node-cli#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
